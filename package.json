@@ -1,0 +1,14 @@
+{
+  "name": "db-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Quang Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
